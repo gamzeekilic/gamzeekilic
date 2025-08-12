@@ -6,5 +6,5 @@
 
 
 - ## 📊 GitHub İstatics:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gamzeekilic&show_icons=true&material-palenight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzeekilic&layout=compact&material-palenight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gamzeekilic&show_icons=true&theme=material-palenight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzeekilic&layout=compact&theme=material-palenight)
